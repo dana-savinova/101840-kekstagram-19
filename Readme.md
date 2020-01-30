@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм» [![Build status][travis-image]][travis-url]
 
 * Студент: [Дарина](https://up.htmlacademy.ru/javascript/19/user/101840).
-* Наставник: `Неизвестно`.
+* Наставник: [Екатерина Малецкая](https://up.htmlacademy.ru/javascript/19/user/902197).
 
 ---
 
